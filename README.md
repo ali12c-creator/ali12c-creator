@@ -1,4 +1,4 @@
-# 👋 Ali Ahmad | Developer & content developer 
+# 👋 Ali Ahmad | Developer & Content Developer 
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building amazing projects.
 
