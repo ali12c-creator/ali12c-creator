@@ -119,7 +119,7 @@ I'm always interested in:
 
 ```
 📅 Started GitHub: 2026
-🎯 Goal: Become a skilled full-stack developer
+🎯 Goal: Become a skilled video grapher and full  automation  developer
 🚀 Current Focus: Learning & Building Projects
 💪 Motivation: Passion for technology & problem-solving
 ```
